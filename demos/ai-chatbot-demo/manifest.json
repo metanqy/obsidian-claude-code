@@ -1,0 +1,9 @@
+{
+  "id": "ai-chatbot-demo",
+  "name": "AI Chatbot Demo",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Demo plugin that opens a right-side panel for a future AI chatbot.",
+  "author": "",
+  "isDesktopOnly": false
+}
