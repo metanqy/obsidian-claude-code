@@ -4,6 +4,13 @@
 
 - 开发指南：`docs/obsidian-plugin-dev-guide.zh-CN.md`
 
+## Demo 插件：AI Chatbot 右侧面板
+
+该示例插件会在右侧面板创建一个占位视图，用于后续接入 AI Chatbot 交互。
+
+- 命令面板执行：`Open AI chatbot panel (right)`
+- 或点击左侧工具栏的机器人图标打开
+
 ## 快速开始（建议流程）
 
 1. 新建一个“开发专用 Vault”（不要在主力 Vault 里开发）。
