@@ -8,7 +8,6 @@
 
 该示例插件会在右侧面板创建一个占位视图，用于后续接入 AI Chatbot 交互。
 
-- 位置：`demos/ai-chatbot-demo/`
 - 命令面板执行：`Open AI chatbot panel (right)`
 - 或点击左侧工具栏的机器人图标打开
 
