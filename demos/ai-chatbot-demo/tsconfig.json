@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "target": "ES2018",
+    "lib": ["ES2020", "DOM"],
+    "strict": true,
+    "noImplicitAny": true,
+    "types": ["node", "obsidian"],
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"]
+}
